@@ -1,0 +1,42 @@
+[
+  {
+    "title": "1984",
+    "summary": "A dystopian story about a totalitarian society controlled by surveillance, propaganda, and thought police. Winston Smith, the protagonist, secretly rebels against the system in search of truth and freedom. Themes: totalitarianism, surveillance, freedom."
+  },
+  {
+    "title": "The Hobbit",
+    "summary": "Bilbo Baggins, a comfort-loving hobbit, is swept into an adventure to reclaim a treasure guarded by the dragon Smaug. Along the way, he discovers courage and forms unexpected friendships. Themes: adventure, friendship, courage."
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "summary": "Harry discovers he is a wizard and attends Hogwarts, where he makes friends and faces the dark wizard Voldemort. Themes: magic, friendship, bravery."
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "summary": "Scout Finch grows up in a racially divided Southern town, learning about justice and empathy as her father defends a black man falsely accused of a crime. Themes: justice, empathy, racism."
+  },
+  {
+    "title": "The Lord of the Rings",
+    "summary": "Frodo and his friends embark on a quest to destroy a powerful ring and save Middle-earth from darkness. Themes: good vs evil, friendship, sacrifice."
+  },
+  {
+    "title": "Pride and Prejudice",
+    "summary": "Elizabeth Bennet navigates issues of manners, marriage, and morality in 19th-century England. Themes: love, social class, family."
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "summary": "Holden Caulfield recounts his experiences in New York City after being expelled from prep school, struggling with alienation and identity. Themes: alienation, identity, adolescence."
+  },
+  {
+    "title": "The Great Gatsby",
+    "summary": "Jay Gatsby pursues wealth and love in 1920s America, only to face tragedy. Themes: love, wealth, the American Dream."
+  },
+  {
+    "title": "Animal Farm",
+    "summary": "Farm animals overthrow their human owner, but the new regime becomes as oppressive as the old. Themes: power, corruption, revolution."
+  },
+  {
+    "title": "The Book Thief",
+    "summary": "Liesel steals books and shares them during WWII in Nazi Germany, finding hope in words. Themes: war, hope, the power of words."
+  }
+]
