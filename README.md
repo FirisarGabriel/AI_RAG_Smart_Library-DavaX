@@ -105,7 +105,3 @@ Smart Library is an AI-powered book recommendation and summarization platform. I
 
 - **Linting:** ESLint is configured for type-aware linting in the frontend.
 - **Hot Reload:** Both frontend and backend support hot reload for rapid development.
-
-## License
-
-This project is for educational
