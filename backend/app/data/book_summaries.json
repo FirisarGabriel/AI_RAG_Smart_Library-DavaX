@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Stăpânul Inelelor: Frăția Inelului",
+    "authors": ["J.R.R. Tolkien"],
+    "tags": ["fantezie", "călătorie", "prietenie"],
+    "summary": "Frodo moștenește Inelul Puterii și pornește într-o misiune periculoasă. Împreună cu prietenii săi și alți aliați, formează Frăția Inelului. Pe drum se confruntă cu monștri, trădări și tentația corupției. Povara inelului devine tot mai apăsătoare. Speranța lor rămâne să ajungă la Mordor."
+  },
+  {
+    "title": "Harry Potter și Piatra Filosofală",
+    "authors": ["J.K. Rowling"],
+    "tags": ["fantezie", "magie", "prietenie"],
+    "summary": "Harry descoperă că este vrăjitor și ajunge la Hogwarts. Își face prieteni loiali, Ron și Hermione. Împreună descoperă misterul Pietrei Filosofale. Profesorul Quirrell este manipulat de Voldemort. Harry reușește să-l oprească, devenind un simbol al speranței."
+  },
+  {
+    "title": "Cronicile din Narnia: Leul, Vrăjitoarea și Dulapul",
+    "authors": ["C.S. Lewis"],
+    "tags": ["fantezie", "allegorie", "copii"],
+    "summary": "Patru frați descoperă Narnia printr-un dulap magic. Ținutul este sub tirania Vrăjitoarei Albe. Aslan, leul, revine pentru a aduce dreptate. Copiii se alătură luptei pentru libertate. În final, devin regi și regine ai Narniei."
+  },
+  {
+    "title": "Aventurile lui Alice în Țara Minunilor",
+    "authors": ["Lewis Carroll"],
+    "tags": ["fantezie", "nonsens", "aventură"],
+    "summary": "Alice cade într-o vizuină de iepure și descoperă o lume absurdă. Întâlnește ființe bizare, precum Pisica de Cheshire și Pălărierul Nebun. Regulile realității dispar complet. Aventurile o fac să reflecteze la identitate. În final, se trezește din vis."
+  },
+  {
+    "title": "Micul Prinț",
+    "authors": ["Antoine de Saint-Exupéry"],
+    "tags": ["filozofie", "copii", "prietenie"],
+    "summary": "Un pilot întâlnește un băiețel misterios venit de pe o altă planetă. Prin poveștile lui, Micul Prinț vorbește despre iubire și singurătate. Vizitele sale pe alte planete arată absurditatea adulților. Relația cu trandafirul său îl învață responsabilitatea. Povestea devine o meditație asupra vieții."
+  },
+  {
+    "title": "Moby Dick",
+    "authors": ["Herman Melville"],
+    "tags": ["clasic", "aventură", "obsesie"],
+    "summary": "Ishmael se îmbarcă pe balenierul Pequod. Căpitanul Ahab este obsedat de vânătoarea balenei albe, Moby Dick. Expediția devine o alegorie despre destin și nebunie. Echipajul se confruntă cu furtuni și pericole. Obsesia lui Ahab duce la tragedie."
+  },
+  {
+    "title": "Mândrie și prejudecată",
+    "authors": ["Jane Austen"],
+    "tags": ["romantic", "societate", "clasic"],
+    "summary": "Elizabeth Bennet este o tânără inteligentă și independentă. Îl cunoaște pe mândrul dar nobilul Mr. Darcy. Prejudecățile și diferențele sociale îi despart. Încercările îi fac să se descopere unul pe celălalt. Povestea culminează cu iubire și înțelegere."
+  },
+  {
+    "title": "Frankenstein",
+    "authors": ["Mary Shelley"],
+    "tags": ["gotic", "groază", "științific"],
+    "summary": "Victor Frankenstein creează o ființă din cadavre. Monstrul, respins de oameni, caută acceptare. Singurătatea lui se transformă în ură. Se răzbună distrugând viața creatorului. Povestea ridică întrebări despre limitele științei."
+  },
+  {
+    "title": "Dracula",
+    "authors": ["Bram Stoker"],
+    "tags": ["gotic", "groază", "vampiri"],
+    "summary": "Contele Dracula pleacă spre Anglia pentru a-și răspândi puterea. Jonathan Harker și aliații lui descoperă complotul. Lupta cu vampirul devine contra cronometru. Van Helsing îi conduce în bătălia finală. În cele din urmă, răul este înfrânt."
+  },
+  {
+    "title": "Don Quijote",
+    "authors": ["Miguel de Cervantes"],
+    "tags": ["clasic", "satiră", "aventură"],
+    "summary": "Don Quijote devine cavaler rătăcitor, inspirat de romanele cavalerești. Împreună cu Sancho Panza, pornește în aventuri iluzorii. Morile de vânt devin uriași, hanurile castele. Nebunia lui provoacă râs și reflecție. Povestea îmbină comicul cu tragicul."
+  },
+  {
+    "title": "1984",
+    "authors": ["George Orwell"],
+    "tags": ["distopie", "politică", "supraveghere"],
+    "summary": "Winston Smith trăiește sub regimul Fratelui cel Mare. Partidul controlează viața, istoria și gândirea. Winston caută adevărul și dragostea cu Julia. Visează la libertate într-o lume opresivă. Dar supravegherea totală duce la trădare."
+  },
+  {
+    "title": "Să ucizi o pasăre cântătoare",
+    "authors": ["Harper Lee"],
+    "tags": ["clasic", "justiție", "rasism"],
+    "summary": "Scout Finch povestește copilăria ei într-un orășel din sudul Americii. Tatăl ei, Atticus, apără un bărbat de culoare acuzat pe nedrept. Copiii descoperă prejudecățile comunității. Întâlnirile cu Boo Radley le schimbă perspectiva. Povestea îmbină inocența copilăriei cu realitatea nedreptății."
+  }
+]

@@ -1,3 +1,16 @@
-.env
+# Python
 venv/
-.venv/
+__pycache__/
+*.pyc
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# Editor
+.vscode/
